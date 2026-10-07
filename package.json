@@ -21,13 +21,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bezalel6/dep-analysis.git"
+    "url": "git+https://github.com/RNDev666/dep-analysis.git"
   },
   "license": "MIT",
   "author": {
     "name": "RNDev",
     "email": "bezalel6@users.noreply.github.com",
-    "url": "https://github.com/bezalel6"
+    "url": "https://github.com/RNDev666"
   },
   "engines": {
     "node": ">=12.0"
@@ -40,10 +40,11 @@
     "imports",
     "static-analysis"
   ],
+  "funding": "https://ko-fi.com/rndev666",
   "bugs": {
-    "url": "https://github.com/bezalel6/dep-analysis/issues"
+    "url": "https://github.com/RNDev666/dep-analysis/issues"
   },
-  "homepage": "https://github.com/bezalel6/dep-analysis#readme",
+  "homepage": "https://github.com/RNDev666/dep-analysis#readme",
   "dependencies": {
     "@typescript-eslint/types": "^5.62.0",
     "chalk": "^4.1.2",

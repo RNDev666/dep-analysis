@@ -63,16 +63,16 @@ The HTML visualization provides an interactive graph where you can:
 - Hover over edges to see relationship types
 - Search for specific files or functions
 
-[build-img]:https://github.com/bezalel6/dep-analysis/actions/workflows/release.yml/badge.svg
-[build-url]:https://github.com/bezalel6/dep-analysis/actions/workflows/release.yml
+[build-img]:https://github.com/RNDev666/dep-analysis/actions/workflows/release.yml/badge.svg
+[build-url]:https://github.com/RNDev666/dep-analysis/actions/workflows/release.yml
 [downloads-img]:https://img.shields.io/npm/dt/@rndev666/dep
 [downloads-url]:https://www.npmtrends.com/@rndev666/dep
 [npm-img]:https://img.shields.io/npm/v/@rndev666/dep
 [npm-url]:https://www.npmjs.com/package/@rndev666/dep
-[issues-img]:https://img.shields.io/github/issues/bezalel6/dep-analysis
-[issues-url]:https://github.com/bezalel6/dep-analysis/issues
-[codecov-img]:https://codecov.io/gh/bezalel6/dep-analysis/branch/main/graph/badge.svg
-[codecov-url]:https://codecov.io/gh/bezalel6/dep-analysis
+[issues-img]:https://img.shields.io/github/issues/RNDev666/dep-analysis
+[issues-url]:https://github.com/RNDev666/dep-analysis/issues
+[codecov-img]:https://codecov.io/gh/RNDev666/dep-analysis/branch/main/graph/badge.svg
+[codecov-url]:https://codecov.io/gh/RNDev666/dep-analysis
 [semantic-release-img]:https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg
 [semantic-release-url]:https://github.com/semantic-release/semantic-release
 [commitizen-img]:https://img.shields.io/badge/commitizen-friendly-brightgreen.svg
